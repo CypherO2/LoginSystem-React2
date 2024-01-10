@@ -1,3 +1,13 @@
+College Winter Project based on using a react website to operate through a python + FLASK backend w/ an SQLite3 database for customer log-in/sign-up utilising password encryption (Hashing)
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
